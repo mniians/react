@@ -1,0 +1,29 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Simple weather app with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mniians/react.git"
+  },
+  "author": "Myers Nii-Ansah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mniians/react/issues"
+  },
+  "homepage": "https://github.com/mniians/react#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.4"
+  }
+}
